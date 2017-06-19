@@ -1,2 +1,2 @@
 # CStudiosMod
-The official repo for CStudiosMod
+USE WITH 1.11.2!!!!
