@@ -7,3 +7,6 @@
 [Download Latest Alpha Build](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0)
 
 No Stable Releases yet, if you're feeling edgy, download the latest alpha build, or wait until a release is stable.
+
+### DISCLAIMER
+[Mod created with MCreator, create your own mod today!](https://mcreator.pylo.co/)
