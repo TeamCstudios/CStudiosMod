@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+
+title: Cstudios Mod
+description: Official Mod of Team Cstudios!
+show_downloads: false
+
+gems:
+  - jekyll-mentions
