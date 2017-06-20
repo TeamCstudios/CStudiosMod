@@ -2,6 +2,7 @@
 
 Release Type | Download Link
 ----------|---------
+Alpha | [v0.3.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.3.0)
 Alpha | [v0.2.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.1)
 Alpha | [v0.2.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.0)
 Alpha | [v0.1.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0)
