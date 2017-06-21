@@ -1,4 +1,4 @@
-#Cooling Table Recipies
+# Cooling Table Recipes
 
 1 Oil - 1 Plastic
 
