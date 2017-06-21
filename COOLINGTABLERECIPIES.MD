@@ -8,4 +8,4 @@
 
 1 Lava Bucket - 1 Obsidian
 
-1 Slime Bucket - 1 Slime Block
+1 Magma Block - 1 Gold Block
