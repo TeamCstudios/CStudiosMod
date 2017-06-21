@@ -1,5 +1,19 @@
 # Welcome to the Official Cstudios Mod!
 
+[Download Now](#downloads)!
+
+This mod adds amazing new stuff like:
+
+- Blood Diamond: A new gem, with a pickaxe and sword!
+- Slimeium: Another new gem, and you can make blocks with it (and a portal)!
+- Oil: Smelt Coal to get a fuel that is better!
+- Plastic: A cool-looking material that can be 8 different colors!
+- Slime Dimension: An entirely new DIMENSION with its own liquids and a new mob!
+- 3 new achievments!
+- And More!
+
+## Downloads
+
 Release Type | Download Link
 ----------|---------
 Beta | [v0.5.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.1)
