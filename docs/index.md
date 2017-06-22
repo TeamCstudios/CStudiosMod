@@ -14,6 +14,8 @@ This mod adds amazing new stuff like:
 
 ## Downloads
 
+Download directly from [CurseForge](https://minecraft.curseforge.com/projects/cstudiosmod/files)!
+
 Release Type | Download Link
 ----------|---------
 Beta | [v0.6.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.6.0)
