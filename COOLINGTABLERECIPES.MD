@@ -8,4 +8,4 @@
 
 1 Lava Bucket - 1 Obsidian
 
-1 Magma Block - 1 Gold Nugget
+1 Magma Block - 3 Gold Nugget
