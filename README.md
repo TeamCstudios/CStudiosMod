@@ -5,8 +5,9 @@ This mod adds amazing new stuff like:
 - Slimeium: Another new gem, and you can make blocks with it!
 - Oil: Smelt Coal to get a fuel that is better!
 - Plastic: A cool-looking material that can be 8 different colors!
-- Slime Dimension: An entirely new DIMENSION with its own liquids and a new mob!
-- And 3 new achievments!
+- Slime Dimension: An entirely new DIMENSION with a new mob!
+- Feldspar: Find it in the Slime Dimension. Use it to make crazy overpowered weapons like the Master Sword or a Feldspar Launcher!
+- And 4 new achievments!
 
 ## USE WITH 1.11.2!!!!
 
