@@ -18,6 +18,7 @@ Download directly from [CurseForge](https://minecraft.curseforge.com/projects/cs
 
 Release Type | Download Link
 ----------|---------
+Beta | [v0.7.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.0)
 Beta | [v0.6.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.6.0)
 Beta | [v0.5.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.1)
 Beta | [v0.5.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.0)
