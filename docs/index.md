@@ -12,6 +12,10 @@ This mod adds amazing new stuff like:
 - Feldspar: Find it in the Slime Dimension. Use it to make crazy overpowered weapons like the Master Sword or a Feldspar Launcher!
 - And 4 new achievments!
 
+## Planned Features
+
+More features are coming soon! Check out this doc for what we're planning next! [Planned Features Doc](https://docs.google.com/document/d/1iLpDbmiFM5Q7dai4ZxXsKUcvsmPjlw72fb-hxB8LypQ/edit?usp=sharing)
+
 ## Downloads
 
 Download directly from [CurseForge](https://minecraft.curseforge.com/projects/cstudiosmod/files)!
