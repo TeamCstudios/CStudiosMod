@@ -1,4 +1,4 @@
-# Welcome to the Official Cstudios Mod!
+# Welcome to the Official Mod of Team Cstudios!
 
 [Download Now](#downloads)!
 
@@ -10,7 +10,7 @@ This mod adds amazing new stuff like:
 - Plastic: A cool-looking material that can be 8 different colors!
 - Slime Dimension: An entirely new DIMENSION with a new mob!
 - Feldspar: Find it in the Slime Dimension. Use it to make crazy overpowered weapons like the Master Sword or a Feldspar Launcher!
-- And 4 new achievments!
+- And 4 new achievements!
 
 ## Planned Features
 
@@ -22,6 +22,7 @@ Download directly from [CurseForge](https://minecraft.curseforge.com/projects/cs
 
 Release Type | Download Link
 ----------|---------
+Beta | [v0.8.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.8.0)
 Beta | [v0.7.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.1)
 Beta | [v0.7.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.0)
 Beta | [v0.6.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.6.0)
@@ -33,7 +34,7 @@ Alpha | [v0.2.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.1)
 Alpha | [v0.2.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.0)
 Alpha | [v0.1.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0)
 
-No Stable Releases yet, if you're feeling edgy, download the latest alpha build, or wait until a release is stable.
+No Stable Releases yet, if you're feeling edgy, download the latest build, or wait until a release is stable.
 
 ### DISCLAIMER
 [Mod created with MCreator, create your own mod today!](https://mcreator.pylo.co/)
