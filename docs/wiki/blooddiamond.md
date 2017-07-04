@@ -4,22 +4,22 @@
 
 You can obtain the Blood Diamond (Gem) in 3 different ways.
 
-1) Mining the Ore underground. Ore looks like this.
-2) Smelting the Blood Diamond Ore.
+1) Mining the Ore underground. Ore info can be found [here](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondore).<br/>
+2) Smelting the [Blood Diamond Ore](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondore).
 ![smeltingore](https://t.gyazo.com/teams/chew/8f820fc96b5af05bdd1b68a0b59de272.png)
-3) Converting 1 Blood Diamond Block into 9 Blood Diamond Ingots
+3) Converting 1 [Blood Diamond Block](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondblock) into 9 Blood Diamonds
 ![blooddiamodblocktgem](https://t.gyazo.com/teams/chew/a365d4a893e7659d7b507deba2d84dad.png)
 
 ## Used in crafting:
 
-- Blood Diamond Pickaxe
-- Blood Diamond Sword
-- Blood Diamond Shovel
-- Blood Diamond Axe
-- Blood Diamond Hoe
-- Blood Diamond Block
-- Blood Diamond Helmet
-- Blood Diamond Body
-- Blood Diamond Leggings
-- Blood Diamond Boots
-- Blood Diamond Bow
+- [Blood Diamond Pickaxe](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondpickaxe)
+- [Blood Diamond Sword](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondsword)
+- [Blood Diamond Shovel](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondshovel)
+- [Blood Diamond Axe](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondaxe)
+- [Blood Diamond Hoe](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondhoe)
+- [Blood Diamond Block](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondblock)
+- [Blood Diamond Helmet](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondhelmet)
+- [Blood Diamond Body](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondbody)
+- [Blood Diamond Leggings](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondleggings)
+- [Blood Diamond Boots](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondboots)
+- [Blood Diamond Bow](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondbow)
