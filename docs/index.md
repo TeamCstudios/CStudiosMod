@@ -32,6 +32,7 @@ Here you can download from CurseForge or from GitHub (if for some reason you can
 
 Release Type | Github Release | Download from CurseForge | Download from GitHub
 ----------|---------|-------
+Beta | [v0.9.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.9.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445959/download) | [Mirror](https://github.com/TeamCstudios/CStudiosMod/blob/master/beta%20builds/cstudiosmod_0.9.0.jar)
 Beta | [v0.8.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.8.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445501/download) | [Mirror](https://github.com/TeamCstudios/CStudiosMod/blob/master/beta%20builds/cstudiosmod_0.8.0.jar)
 Beta | [v0.7.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2440230/download) | [Mirror](https://github.com/TeamCstudios/CStudiosMod/blob/master/beta%20builds/cstudiosmod_0.7.1.jar)
 Beta | [v0.7.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439821/download) | [Mirror](https://github.com/TeamCstudios/CStudiosMod/blob/master/beta%20builds/cstudiosmod_0.7.0.jar)
