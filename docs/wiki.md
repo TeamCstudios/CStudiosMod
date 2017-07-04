@@ -9,37 +9,37 @@ Images also show a Missing Texture for the Blood Diamond armor., this is a known
 
 Type | Link to Item
 -----|------
-Gem | Blood Diamond
-Tool | Blood Diamond Pickaxe
-Tool | Blood Diamond Shovel
-Tool | Blood Diamond Axe
-Tool | Blood Diamond Hoe
-Ore | Blood Diamond Ore
-Block | Blood Diamond Block
-Weapon | Blood Diamond Sword
-Weapon | Blood Diamond Bow
-Multitool | Blood Diamond Multitool
-Armor | Blood Diamond Helmet
-Armor | Blood Diamond Chestplate
-Armor | Blood Diamond Leggings
-Armor | Blood Diamond Boots
-Gem | Feldspar
-Ore | Feldspar Ore
-Ingot | Feldsparite Ingot
-Weapon | Feldspar Launcher
-Block | Feldsparite Block
-Gem | Slimeium
-Block | Slimeium Block
-Ore | Slimeium Ore
-Item | Slime Portal Igniter
-Food | Bagel
-Food | Blood Diamond Apple
-Item | Plastic Sheet
-Block | Plastic
-Block | Colored Plastic
-Portal | Slime Dimension Portal
-Dimension | Slime Dimension
-Weapon | Master Sword
-Fuel | Oil
-Mob | Bagel Warrior
-Mob | Slime Zombie
+Gem | [Blood Diamond](blooddiamond)
+Tool | [Blood Diamond Pickaxe](blooddiamondpickaxe)
+Tool | [Blood Diamond Shovel](blooddiamondshovel)
+Tool | [Blood Diamond Axe](blooddiamondaxe)
+Tool | [Blood Diamond Hoe](blooddiamondhoe)
+Ore | [Blood Diamond Ore](blooddiamondore)
+Block | [Blood Diamond Block](blooddiamondblock)
+Weapon | [Blood Diamond Sword](blooddiamondsword)
+Weapon | [Blood Diamond Bow](blooddiamondbow)
+Multitool | [Blood Diamond Multitool](blooddiamondmultitool)
+Armor | [Blood Diamond Helmet](blooddiamondhelmet)
+Armor | [Blood Diamond Body](blooddiamondbody)
+Armor | [Blood Diamond Leggings](blooddiamondleggings)
+Armor | [Blood Diamond Boots](blooddiamondboots)
+Gem | [Feldspar](feldspar)
+Ore | [Feldspar Ore](feldsparore)
+Ingot | [Feldsparite Ingot](feldspariteingot)
+Weapon | [Feldspar Launcher](feldsparlauncher)
+Block | [Feldsparite Block](feldspariteblock)
+Gem | [Slimeium](slimeium)
+Block | [Slimeium Block](slimeiumblock)
+Ore | [Slimeium Ore](slimeiumore)
+Item | [Slime Portal Igniter](slimeportaligniter)
+Food | [Bagel](bagel)
+Food | [Blood Diamond Apple](blooddiamondapple)
+Item | [Plastic Sheet](plasticsheet)
+Block | [Plastic](plastic)
+Block | [Colored Plastic](coloredplastic)
+Portal | [Slime Dimension Portal](slimedimensionportal)
+Dimension | [Slime Dimension](slimedimension)
+Weapon | [Master Sword](mastersword)
+Fuel | [Oil](oil)
+Mob | [Bagel Warrior](bagelwarrior)
+Mob | [Slime Zombie](slimezombie)
