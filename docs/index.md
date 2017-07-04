@@ -1,6 +1,7 @@
 # Welcome to the Official Mod of Team Cstudios!
 
 [Download Now](#downloads)!
+[Item Wiki](wiki)
 
 This mod adds amazing new stuff like:
 
@@ -12,6 +13,10 @@ This mod adds amazing new stuff like:
 - Feldspar: Find it in the Slime Dimension. Use it to make crazy overpowered weapons such as the Master Sword or even a Feldspar Launcher!
 - 4 new achievements to collect!
 - And more!
+
+## Mod Wiki
+
+Confused on items or how to craft them? Check out this very useful
 
 ## Planned Features
 
