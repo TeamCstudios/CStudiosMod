@@ -9,7 +9,7 @@ You can craft the Blood Diamond Boots or use it with an enchanting table/anvil
 
 ## Enchantments
 
-The Blood Diamond Leggings Supports the following Enchantments:
+The Blood Diamond Boots Supports the following Enchantments:
 
 1) Any tier of Protection.
 2) Any tier of Fire Protection.
