@@ -1,9 +1,9 @@
 # CStudioMod Items Wiki
 
-NOTE: This is a very basic outline of the recipes in the mod.<br/>
-Links do not work yet! Be patient and type CMD+F to search. (or if you're using crummy windows (or awesome linux), CTRL+F)<br/>
-Images are hosted on Gyazo, temporarily, they may be blocked for you.<br/>
-Images also show a Missing Texture for the Blood Diamond armor., this is a known bug, and can be found [here](https://github.com/TeamCstudios/CStudiosMod/issues/1). The images will be updated when the issue is fixed.
+NOTE: This wiki is designed to show Crafting Recipes and Recipes that use the items, we don't add descriptive details about the item. If you're only referencing the item recipes, you might want to check out a Inventory Searching mod such as JEI.<br/>
+As there is no easy way to add a way to sort out these items, you might want to CMD+F (on mac, or CTRL+F on windows/linux/whatever uses CTRL) to find what you're looking for. <br/>
+Images are hosted on Gyazo, temporarily, so images might not work for you yet.<br/>
+Blood Diamond armor images also show a Missing Texture for the item, this is a known bug, and can be found [here](https://github.com/TeamCstudios/CStudiosMod/issues/1). The images will be updated when the issue is fixed.
 
 ## Index
 
