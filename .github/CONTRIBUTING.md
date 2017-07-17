@@ -1,13 +1,13 @@
 # TeamCstudios/CStudiosMod Community Guidelines
 
-Here you can report issues about the mod. 
+Here you can report issues about the mod.
 
 ## General Guidelines
 
 Rules for all types of posts:
 
 1. Follow our templates for reporting issues, it is designed to tell you what exact information we need and how you should present it to us.
-2. Be nice and give constructive critism. Insulting, Harassment, Racism, Sexism or any form of bullying or discrimination is not tolerated.
+2. Be nice and give constructive criticism. Insulting, Harassment, Racism, Sexism or any form of bullying or discrimination is not tolerated.
 3. Try to engage in conversations by pointing out scenarios to replicate issues, providing fix approaches or other kind of help.
 4. Advertisement is inappropriate and will be removed, especially advertisement for Minecraft Servers is completely unaccepted.
 
