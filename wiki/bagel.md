@@ -9,4 +9,4 @@ The bagel is a food item, it restores 6 hunger points (or 3 hunger, like a cooke
 
 ## Used to Craft
 
-- Bagel Shard
+- [Bagel Shard](https://teamcstudios.github.io/CStudiosMod/wiki/bagelshard)

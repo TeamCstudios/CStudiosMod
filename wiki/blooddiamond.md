@@ -4,7 +4,7 @@
 
 You can obtain the Blood Diamond (Gem) in 3 different ways.
 
-1) Mining the Ore underground. Ore info can be found [here](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondore).<br/>
+1) Mining [Blood Diamond Ore](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondore) underground.<br/>
 2) Smelting the [Blood Diamond Ore](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondore).
 ![smeltingore](https://t.gyazo.com/teams/chew/8f820fc96b5af05bdd1b68a0b59de272.png)
 3) Converting 1 [Blood Diamond Block](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamondblock) into 9 Blood Diamonds
