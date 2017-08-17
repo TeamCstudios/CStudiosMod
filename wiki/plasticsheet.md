@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Plastic Sheet
 
 Plastic Sheet is an item that serves no real purpose, and is crafted from oil.

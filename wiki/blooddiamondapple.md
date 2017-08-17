@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Apple
 
 The Blood Diamond Apple is a food item, it restores the same amount of hunger as a normal apple, but has special effects.

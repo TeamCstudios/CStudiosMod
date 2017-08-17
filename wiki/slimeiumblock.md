@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Slimeium Block
 
 The Slimeium Block is a way to compact your amount of Slimeium.

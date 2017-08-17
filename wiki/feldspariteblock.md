@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Feldsparite Block
 
 The Feldsparite Block is a way to compact your amount of Feldsparite.

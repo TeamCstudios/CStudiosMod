@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Axe
 
 You can craft the Blood Diamond Axe or use it with an enchanting table/anvil

@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Plastic
 
 A decoration block that serves no real purpose.

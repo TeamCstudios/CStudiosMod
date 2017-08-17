@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Hoe
 
 You can craft the Blood Diamond Hoe or use it with an enchanting table/anvil

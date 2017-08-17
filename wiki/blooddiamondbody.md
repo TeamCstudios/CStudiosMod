@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Body
 
 You can craft the Blood Diamond Body or use it with an enchanting table/anvil

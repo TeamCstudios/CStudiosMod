@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Slime Portal Igniter
 
 The Slime Portal Igniter creates the portal needed to get to the Slime Dimension.

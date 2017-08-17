@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Sword
 
 You can craft the Blood Diamond Sword or use it with an enchanting table/anvil

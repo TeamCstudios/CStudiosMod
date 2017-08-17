@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Feldspar Launcher
 
 The Feldspar launcher is a gun, it does a massive amount of damage but shoots Feldspar at a rapid speed.

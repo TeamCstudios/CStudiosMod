@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond (Gem)
 
 ## Obtaining

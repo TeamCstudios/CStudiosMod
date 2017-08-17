@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Feldspar Ore
 
 Feldspar Ore is an ore found in the Slime Dimension.

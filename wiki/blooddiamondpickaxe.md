@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Pickaxe
 
 You can craft the Blood Diamond Pickaxe or use it with an enchanting table/anvil

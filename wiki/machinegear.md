@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Machine Gear
 
 The Machine Gear is a base used for making other Machines.

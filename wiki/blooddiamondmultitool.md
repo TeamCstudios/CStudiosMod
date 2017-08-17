@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Multitool
 
 You can craft the Blood Diamond Multitool or use it with an enchanting table/anvil

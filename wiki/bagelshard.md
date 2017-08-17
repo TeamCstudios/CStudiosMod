@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Bagel Shard
 
 The Bagel Shard is a drop from the [Bagel Warrior mob](https://teamcstudios.github.io/CStudiosMod/wiki/bagelwarrior). It currently has no known uses.

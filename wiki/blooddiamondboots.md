@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Blood Diamond Boots
 
 You can craft the Blood Diamond Boots or use it with an enchanting table/anvil
