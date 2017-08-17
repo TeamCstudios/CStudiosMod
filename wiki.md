@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # CStudioMod Items Wiki
 
 NOTE: This wiki is designed to show Crafting Recipes and Recipes that use the items, we don't add descriptive details about the item. If you're only referencing the item recipes, you might want to check out a Inventory Searching mod such as JEI.<br/>
@@ -7,8 +11,9 @@ Blood Diamond armor images also show a Missing Texture for the item, this is a k
 
 ## Index
 
-Sorted Alphabetically
+<input type="text" id="finditems" onkeyup="searchItems()" placeholder="Search for items..">
 
+{.#items}
 Type | Link to Item
 -----|------
 Food | [Bagel](wiki/bagel)
