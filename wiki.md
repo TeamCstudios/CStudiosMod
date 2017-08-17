@@ -13,7 +13,7 @@ Blood Diamond armor images also show a Missing Texture for the item, this is a k
 
 <input type="text" id="finditems" onkeyup="searchItems()" placeholder="Search for items..">
 
-{.#items}
+{:#items}
 Type | Link to Item
 -----|------
 Food | [Bagel](wiki/bagel)
