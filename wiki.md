@@ -15,7 +15,8 @@ Blood Diamond armor images also show a Missing Texture for the item, this is a k
 
 {:#items}
 Type | Link to Item
------|------
+---|--------
+Info | [Achievements](wiki/achievements)
 Food | [Bagel](wiki/bagel)
 Item | [Bagel Shard](wiki/bagelshard)
 Mob | [Bagel Warrior](wiki/bagelwarrior)
