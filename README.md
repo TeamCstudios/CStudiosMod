@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Welcome to the Official Mod of Team Cstudios!
 
 [Download Now](#downloads)!<br/>

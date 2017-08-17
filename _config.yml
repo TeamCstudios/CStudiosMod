@@ -1,8 +1,6 @@
-theme: jekyll-theme-midnight
-
+---
 title: CStudios Mod
 description: Official Mod of Team Cstudios!
-show_downloads: false
-
-gems:
-  - jekyll-mentions
+author: TeamCstudios
+authorurl: https://github.com/TeamCstudios
+url: https://github.com/TeamCstudios/CstudiosMod
