@@ -2,8 +2,6 @@
 layout: main
 ---
 
-# CStudioMod Items Wiki
-
 NOTE: This wiki shows EVERYTHING in the mod. From items to portals, this is your one stop spot to all things CstudiosMod!<br/>
 Images are hosted on Gyazo, temporarily, so images might not work for you yet.<br/>
 Blood Diamond armor images also show a Missing Texture for the item, this is a known bug, and can be found [here](https://github.com/TeamCstudios/CStudiosMod/issues/1). The images will be updated when the issue is fixed.
