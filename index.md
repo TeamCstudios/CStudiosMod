@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Welcome to the Official Mod of Team Cstudios!
 ---
-
-# Welcome to the Official Mod of Team Cstudios!
 
 [Download Now](#downloads)!<br/>
 [Item Wiki](wiki)<br/>
@@ -39,6 +38,7 @@ Here you can download from CurseForge or from GitHub (if for some reason you can
 
 Release Type | Change-Log | Download from CurseForge | Download from GitHub
 ----------|---------|-------|-------
+Alpha | [v1.0.0-Pre2](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0-pre2) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466263/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-pre2.jar)
 Alpha | [v1.0.0-Pre1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0-pre1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466043) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-pre1.jar)
 Beta | [v0.9.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.9.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445959/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.9.0.jar)
 Beta | [v0.8.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.8.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445501/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.8.0.jar)

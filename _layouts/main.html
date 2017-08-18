@@ -6,7 +6,7 @@
     <title>{{ site.title }} by {{ site.author }}</title>
     <link rel="stylesheet" href="/CStudiosMod/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="/CStudiosMod/assets/js/respond.js"></script>
+    <script src="/CStudiosMod/main.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -14,35 +14,14 @@
     <link rel="stylesheet" href="/CStudiosMod/assets/css/ie.css">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <script>
-  function searchItems() {
-    // Declare variables
-    var input, filter, table, tr, td, i;
-    input = document.getElementById("finditems");
-    filter = input.value.toUpperCase();
-    table = document.getElementById("items");
-    tr = table.getElementsByTagName("tr");
-
-    // Loop through all table rows, and hide those who don't match the search query
-    for (i = 0; i < tr.length; i++) {
-      td = tr[i].getElementsByTagName("td")[1];
-      if (td) {
-        if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-          tr[i].style.display = "";
-        } else {
-          tr[i].style.display = "none";
-        }
-      }
-    }
-  }
-  </script>
-
   </head>
   <body>
       <div id="header">
         <nav>
-          <button class="fork"><a href="{{ site.url }}">⌂</a></button>
-          <button class="fork"><a href="https://github.com/TeamCstudios/CStudiosMod">View On GitHub</a></button>
+          <li class="fork"><a href="{{ site.url }}">⌂</a></li>
+          <li class="fork"><a href="https://github.com/TeamCstudios/CStudiosMod">View On GitHub</a></li>
+          <li class="fork"><a href="http://teamcstudios.pro/CstudiosMod/wiki">Item Wiki</a></li>
+          <li class="fork"><a href="http://teamcstudios.pro/CstudiosMod/#downloads">Download</a></li>
 
         </nav>
       </div><!-- end header -->
@@ -57,6 +36,7 @@
           <span class="credits left">Project maintained by <a href="{{ site.authorurl }}">{{ site.author }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
+<h1>{{ page.title }}</h1>
 
         {{ content }}
 
