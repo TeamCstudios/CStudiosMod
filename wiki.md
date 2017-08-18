@@ -1,6 +1,7 @@
 ---
 layout: main
 ---
+# CStudiosMod Items Wiki
 
 NOTE: This wiki shows EVERYTHING in the mod. From items to portals, this is your one stop spot to all things CstudiosMod!<br/>
 Images are hosted on Gyazo, temporarily, so images might not work for you yet.<br/>
