@@ -5,7 +5,8 @@ layout: main
 # Welcome to the Official Mod of Team Cstudios!
 
 [Download Now](#downloads)!<br/>
-[Item Wiki](wiki)
+[Item Wiki](wiki)<br/>
+[Chat on IRC](irc)
 
 This mod adds amazing new stuff like:
 
@@ -36,20 +37,21 @@ Here you can download from CurseForge or from GitHub (if for some reason you can
 
 "Download" downloads from CurseForge, "Mirror" downloads from GitHub.
 
-Release Type | Changelog | Download from CurseForge | Download from GitHub
+Release Type | Change-Log | Download from CurseForge | Download from GitHub
 ----------|---------|-------|-------
-Beta | [v0.9.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.9.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445959/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.9.0.jar)
-Beta | [v0.8.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.8.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445501/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.8.0.jar)
-Beta | [v0.7.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2440230/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.7.1.jar)
-Beta | [v0.7.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439821/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.7.0.jar)
-Beta | [v0.6.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.6.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439766/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.6.0.jar)
-Beta | [v0.5.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439765/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.5.1.jar)
-Beta | [v0.5.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439764/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.5.0.jar)
-Alpha | [v0.4.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.4.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439763/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.4.0.jar)
-Alpha | [v0.3.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.3.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439762/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.3.0.jar)
-Alpha | [v0.2.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439761/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.2.1.jar)
-Alpha | [v0.2.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439760/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.2.0.jar)
-Alpha | [v0.1.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439759/download) | [Mirror](http://teamcstudios.github.io/CStudiosMod/downloads/cstudiosmod_0.1.0.jar)
+Alpha | [v1.0.0-Pre1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0-pre1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466043) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-pre1.jar)
+Beta | [v0.9.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.9.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445959/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.9.0.jar)
+Beta | [v0.8.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.8.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2445501/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.8.0.jar)
+Beta | [v0.7.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2440230/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.7.1.jar)
+Beta | [v0.7.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.7.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439821/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.7.0.jar)
+Beta | [v0.6.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.6.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439766/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.6.0.jar)
+Beta | [v0.5.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439765/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.5.1.jar)
+Beta | [v0.5.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.5.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439764/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.5.0.jar)
+Alpha | [v0.4.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.4.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439763/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.4.0.jar)
+Alpha | [v0.3.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.3.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439762/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.3.0.jar)
+Alpha | [v0.2.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439761/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.2.1.jar)
+Alpha | [v0.2.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439760/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.2.0.jar)
+Alpha | [v0.1.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439759/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.1.0.jar)
 
 No Stable Releases as of yet. If you're feeling edgy, download the latest beta or alpha, or wait until a 1.0.0.
 
