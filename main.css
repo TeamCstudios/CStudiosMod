@@ -22,7 +22,7 @@ font:14px/1.5 OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif;
 color:#f0e7d5;
 font-weight:400;
 background-attachment:fixed!important;
-background:linear_gradient(#2a2a29,#1c1c1c);
+background:#252525;
 margin:0;
 padding:0 0 20px;
 }
@@ -294,7 +294,7 @@ display:block;
 }
 
 ul {
-list-style-image:url(../images/bullet.png);
+list-style-image:url(http://cahbot.pro/assets/images/bullet.png);
 }
 
 strong {
@@ -358,7 +358,7 @@ hr {
 border:0;
 outline:none;
 height:3px;
-background:transparent url(../images/hr.gif) center center repeat-x;
+background:transparent url(http://cahbot.pro/assets/images/hr.gif) center center repeat-x;
 margin:0 0 20px;
 }
 
@@ -375,7 +375,7 @@ top:0;
 height:60px;
 width:100%;
 position:fixed;
-background:url(../images/nav-bg.gif) #353535;
+background:url(http://cahbot.pro/assets/images/nav-bg.gif) #353535;
 border-bottom:4px solid #434343;
 box-shadow:0 1px 3px rgba(0,0,0,0.25);
 }
