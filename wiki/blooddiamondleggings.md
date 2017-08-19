@@ -10,7 +10,7 @@ You can craft the Blood Diamond Leggings or use it with an enchanting table/anvi
 1) You can craft the Blood Diamond Leggings just like a normal leggings, but using Blood Diamond Gems.
 ![blooddiamondcrafting](https://t.gyazo.com/teams/chew/efe664abe1372b66c059f08f594d7646.png)
 
-##Enchantments
+## Enchantments
 
 The Blood Diamond Leggings Supports the following Enchantments:
 
