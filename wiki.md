@@ -17,7 +17,7 @@ Type | Link to Item
 Info | [Achievements](wiki/achievements)
 Gem | [Amythest](wiki/amythest)
 Block | [Amythest Block](wiki/amythestblock)
-Ore | [Amythest Block](wiki/amythestore)
+Ore | [Amythest Ore](wiki/amythestore)
 Food | [Bagel](wiki/bagel)
 Block | [Bagel Block](wiki/bagelblock)
 Portal | [Bagel Dimension Portal](wiki/bageldimensionportal)
