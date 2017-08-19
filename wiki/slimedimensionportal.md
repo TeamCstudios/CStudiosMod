@@ -7,4 +7,4 @@ The Slime Dimension portal creates a way to access the Slime Dimension. It is bu
 
 Requires a Slime Igniter to ignite the portal, instead of a flint and steel.
 
-![elwoah](https://t.gyazo.com/teams/chew/288f435b0db4cfea207d5d8bfa3cc569.png)
+![elwoah](https://t.gyazo.com/teams/chew/e9360add17c222a3c4e46522383e3e19.png)
