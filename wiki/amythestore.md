@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Blood Diamond Ore
+title: Amythest Ore
 ---
 
 The Amythest Ore is an extremely common ore found at normal diamond levels.
