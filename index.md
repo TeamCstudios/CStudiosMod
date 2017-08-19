@@ -55,7 +55,5 @@ Alpha | [v0.2.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.1)
 Alpha | [v0.2.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.2.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439760/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.2.0.jar)
 Alpha | [v0.1.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/0.1.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2439759/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_0.1.0.jar)
 
-No Stable Releases as of yet. If you're feeling edgy, download the latest beta or alpha, or wait until a 1.0.0.
-
 ### DISCLAIMER
 [Mod created with MCreator, create your own mod today!](https://mcreator.pylo.co/)
