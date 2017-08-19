@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Bagel
 ---
-
-# Bagel
 
 The bagel is a food item, it restores 6 hunger points (or 3 hunger, like a cooked porkchop)
 

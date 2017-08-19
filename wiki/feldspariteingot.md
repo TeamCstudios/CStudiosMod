@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Feldsparite Ingot
 ---
-
-# Feldsparite Ingot
 
 Feldsparite is used for making end-game items, such as the Master Sword.
 

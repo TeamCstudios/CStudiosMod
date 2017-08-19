@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Achievements
 ---
-
-# Achievements
 
 The mod adds 4 new achievements.
 

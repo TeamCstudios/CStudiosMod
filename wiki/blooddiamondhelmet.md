@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Helmet
 ---
-
-# Blood Diamond Helmet
 
 You can craft the Blood Diamond Helmet or use it with an enchanting table/anvil
 

@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Shovel
 ---
-
-# Blood Diamond Shovel
 
 You can craft the Blood Diamond Shovel or use it with an enchanting table/anvil
 

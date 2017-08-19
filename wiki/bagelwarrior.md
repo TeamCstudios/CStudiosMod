@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Bagel Warrior Mob
 ---
-
-# Bagel Warrior Mob
 
 The Bagel Warrior mob doesn't have much available information.
 

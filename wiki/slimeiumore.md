@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Slimeium Ore
 ---
-
-# Slimeium Ore
 
 The Slimeium Ore has no crafting recipes, but you can smelt it.
 

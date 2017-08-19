@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Bow
 ---
-
-# Blood Diamond Bow
 
 You can craft the Blood Diamond Bow or use it with an enchanting table/anvil
 

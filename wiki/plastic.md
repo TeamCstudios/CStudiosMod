@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Plastic
 ---
-
-# Plastic
 
 A decoration block that serves no real purpose.
 

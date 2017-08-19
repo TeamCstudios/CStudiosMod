@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Colored Plastic
 ---
-
-# Colored Plastic
 
 A colorful block that also serves no real purpose.
 

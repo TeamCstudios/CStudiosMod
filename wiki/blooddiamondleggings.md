@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Leggings
 ---
-
-# Blood Diamond Leggings
 
 You can craft the Blood Diamond Leggings or use it with an enchanting table/anvil
 

@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond (Gem)
 ---
-
-# Blood Diamond (Gem)
 
 ## Obtaining
 

@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Steel Ingot
 ---
-
-# Steel Ingot
 
 Steel is used for making machines and more.
 

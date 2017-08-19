@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Master Sword
 ---
-
-# Master Sword
 
 The Master Sword is one of the most powerful weapons in the mod. Upon crafting, a sword with Fire Aspect I and Smite V are given. It is very difficult to make.
 

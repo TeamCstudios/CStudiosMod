@@ -1,8 +1,9 @@
 ---
 layout: main
+title: Slimeium
 ---
 
-# Slimeium
+Slimeium is an object used to craft many different things
 
 ## Obtaining
 

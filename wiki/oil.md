@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Oil
 ---
-
-# Oil
 
 Oil is a useful fuel in the mod, smelting twice as many items as coal does.
 

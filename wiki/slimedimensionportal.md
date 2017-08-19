@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Slime Dimension Portal
 ---
-
-# Slime Dimension Portal
 
 The Slime Dimension portal creates a way to access the Slime Dimension. It is built exactly like a nether portal, but uses Slimeium blocks instead of Obsidian.
 

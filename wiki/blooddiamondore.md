@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Ore
 ---
-
-# Blood Diamond Ore
 
 The Blood Diamond Ore has no crafting recipes, but you can smelt it.
 

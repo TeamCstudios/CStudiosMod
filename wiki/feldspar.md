@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Feldspar
 ---
-
-# Feldspar
 
 You can only obtain Feldspar by mining the ore in the Slime Dimension.
 

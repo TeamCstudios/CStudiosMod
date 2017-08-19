@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Slimeium Block
 ---
-
-# Slimeium Block
 
 The Slimeium Block is a way to compact your amount of Slimeium.
 

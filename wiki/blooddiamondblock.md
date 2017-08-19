@@ -1,8 +1,7 @@
 ---
 layout: main
+title: Blood Diamond Block
 ---
-
-# Blood Diamond Block
 
 The Blood Diamond Block is a way to compact your amount of [Blood Diamond Gems](https://teamcstudios.github.io/CStudiosMod/wiki/blooddiamond).
 
