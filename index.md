@@ -38,6 +38,7 @@ Here you can download from CurseForge or from GitHub (if for some reason you can
 
 Release Type | Change-Log | Download from CurseForge | Download from GitHub
 ----------|---------|-------|-------
+Release | [v1.0.1](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.1) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2467131/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.1)
 Release | [v1.0.0](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466682/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-v1.11.2)
 Alpha | [v1.0.0-Pre3](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0-pre3) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466364/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-pre3.jar)
 Alpha | [v1.0.0-Pre2](https://github.com/TeamCstudios/CStudiosMod/releases/tag/1.0.0-pre2) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2466263/download) | [Mirror](http://teamcstudios.pro/CStudiosMod/downloads/cstudiosmod_1.0.0-pre2.jar)
