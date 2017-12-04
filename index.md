@@ -27,10 +27,6 @@ This mod adds amazing new stuff like:
 
 Confused on items or how to craft them? Check out this very useful item wiki found [here](wiki).
 
-## Planned Features
-
-More features are coming soon! Check out this Google Doc for what we're planning next! [Document](https://docs.google.com/document/d/1iLpDbmiFM5Q7dai4ZxXsKUcvsmPjlw72fb-hxB8LypQ/edit?usp=sharing)
-
 ## Downloads
 
 ### Use 1.11.2 to play!
