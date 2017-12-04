@@ -3,6 +3,11 @@ layout: main
 title: Welcome to the Official Mod of Team Cstudios!
 ---
 
+# HEY!
+
+This mod is no longer in development! It is FEATURE COMPLETE, and all of the bugs are bugs with the engine (MCreator) and not the code. so don't say "Armor textures are gone" or something like that.
+
+
 [Download Now](#downloads)!<br/>
 [Item Wiki](wiki)<br/>
 [Chat on IRC](irc)
