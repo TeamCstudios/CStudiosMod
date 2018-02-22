@@ -3,9 +3,13 @@ layout: main
 title: Welcome to the Official Mod of Team Cstudios!
 ---
 
-# HEY!
+## HEY!
 
 This mod is no longer in development! It is FEATURE COMPLETE, and all of the bugs are bugs with the engine (MCreator) and not the code. so don't say "Armor textures are gone" or something like that.
+
+## Hey Hey!
+
+[A new mod is being developed as a remake of this one. For now, this one is more complete, but you can follow along with the development here:](https://github.com/TeamCstudios/CStudiosMod2)
 
 
 [Download Now](#downloads)!<br/>
